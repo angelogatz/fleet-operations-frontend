@@ -1,8 +1,4 @@
-## Olá sou o Angelo!
-
-Bem-vindo ao meu repositório do Teste Frontend V4!
-
-Este projeto foi desenvolvido utilizando React e TypeScript e visa demonstrar as habilidades de desenvolvimento front-end para a vaga.
+Este projeto foi desenvolvido utilizando React e TypeScript.
 
 ## Requisitos
 
