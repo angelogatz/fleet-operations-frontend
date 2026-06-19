@@ -1,4 +1,4 @@
-Este projeto foi desenvolvido utilizando React e TypeScript.
+Este projeto é uma aplicação web de alta performance desenvolvida utilizando React e TypeScript, focada na resolução de desafios complexos de gerenciamento e visualização de dados no front-end.
 
 ## Requisitos
 
