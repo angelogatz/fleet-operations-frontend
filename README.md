@@ -12,18 +12,18 @@ Funcionalidades
 ## Mapa
 O projeto utiliza um mapa interativo para exibir os equipamentos. Ao clicar em um marcador no mapa, uma infowindow será aberta com os detalhes do equipamento e um botão para visualizar o histórico.
 
-![image](https://github.com/user-attachments/assets/9923d0d7-0dce-4295-b196-7302d7cb891a)
+![Mapa](https://raw.githubusercontent.com/aikodigital/teste-frontend-v4/master/img/mapa.png)
 
 
 ## Detalhes do Equipamento
 Ao clicar em um marcador no mapa, será exibida uma infowindow contendo informações detalhadas sobre o equipamento e um botão para acessar o histórico.
 
-![image](https://github.com/user-attachments/assets/16536a51-147d-4958-b1ab-4fbdb17a0fd8)
+![Detalhes do Equipamento](https://raw.githubusercontent.com/aikodigital/teste-frontend-v4/master/img/detalhes.png)
 
 ## Histórico do Equipamento
 O histórico do equipamento mostra todas as ocorrências, incluindo mudanças de estado, datas, horas e o número de ocorrências.
 
-![image](https://github.com/user-attachments/assets/3f79914e-194c-4d3f-91f9-22fb0fe7a67d)
+![Histórico do Equipamento](https://raw.githubusercontent.com/aikodigital/teste-frontend-v4/master/img/historico.png)
 
 ## Mais detalhes sobre as tecnologias utilizadas
 * **Estilo:** Neste projeto foram utilizados pré-processadores css como Scss/Sass para uma melhor legibilidade e organização das folhas de estilo.
